@@ -1,0 +1,9 @@
+public class GreetingTester
+public static vouid main(String[] args) { 
+Greeting greeting1 = new Greeting("Hello World");
+Greeting greeting2 = new Gretting("Hello Monmouth");
+
+greeting1.printGreeting();
+greeting2.printGreeting();
+}
+}
